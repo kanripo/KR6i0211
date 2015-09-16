@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 優婆夷淨行法門經
+#+DATE: 2015-08-30 20:12:55.391845
+#+PROPERTY: JUAN 0
